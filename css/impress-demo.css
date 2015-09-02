@@ -250,6 +250,32 @@ a:focus {
     3D positioning along Z axis.
 */
 
+#start h1 {
+  font-size: 100px;
+  margin-top: 200px;
+  margin-left: 50px;
+}
+
+#start h3 {
+  font-size: 50px;
+  margin-top: 150px;
+  margin-left: 40px;
+}
+
+
+#dikw h1 {
+  font-size: 80px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+#dikw small {
+  font-size: 30px;
+    position:relative;
+    float:right;
+}
+
+
 #title {
     padding: 0;
 }
