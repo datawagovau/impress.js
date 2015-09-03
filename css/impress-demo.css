@@ -284,9 +284,19 @@ a:focus {
 
 .dikw-component > p {
   font-size: 20px;
-  margin-top: 50px;
+  margin-top: 100px;
   margin-left: 70px;
 
+}
+
+.figure {
+  height: 800px;
+}
+
+
+
+.catalogue > p {
+  font-size: 100px;
 }
 
 
